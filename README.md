@@ -1,3 +1,5 @@
+This repository is now a part of [qubyte/toisu-monorepo](https://github.com/qubyte/toisu-monorepo).
+
 # Toisu! router
 
 The Toisu! router provides routing logic, using routing string like those of Express.
